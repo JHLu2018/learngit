@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 +hello
 =======
 comment
 comment
+=======
+comment
+author
+>>>>>>> be5baae (add author)
